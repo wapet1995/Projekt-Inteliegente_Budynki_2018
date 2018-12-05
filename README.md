@@ -1,0 +1,2 @@
+# Projekt-Inteliegente_Budynki_2018
+Projekt studencki wykonany w ramach przedmiotu Inteligentne Budynki. System ma na celu prezentowanie pomiarów z czujników różnego typu umieszczonych w pokoju wykładowcy. Sensory podłączone są do wielu stacji pomiarowych (Arduino). Serwer w postaci Raspberry Pi 2 pełni funkcję serwera, który pobiera pomiary z urządzenia pośredniczącego ESP32 MCU.  Moduł ESP komunikuje się z stacjami Arduino.
